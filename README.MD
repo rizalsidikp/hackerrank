@@ -8,3 +8,6 @@ WEEK 1:
 -string
  -camelcase
  -sherlock-and-anagrams
+
+WEEK 2:
+-gridland-metro
