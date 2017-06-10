@@ -11,3 +11,7 @@ WEEK 1:
 
 WEEK 2:
 -gridland-metro
+
+WEEK 3:
+-pairs
+-intro-to-tutorial-challenges
